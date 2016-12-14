@@ -22,7 +22,7 @@ public class MyGdxGame extends ApplicationAdapter {
 		Gdx.gl.glClear(GL20.GL_COLOR_BUFFER_BIT);
 		batch.begin();
 		batch.draw(img, 0, 0);
-		batch.draw(ing, 100, 100);
+		batch.draw(img, 100, 100);
 		batch.end();
 	}
 	
