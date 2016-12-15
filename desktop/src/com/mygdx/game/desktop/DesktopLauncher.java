@@ -19,5 +19,7 @@ public class DesktopLauncher {
 
 		new LwjglApplication(new MyGdxGame(), config);
 		// Gitara Siema ;-D
+		// LOL
+		// T
 	}
 }
