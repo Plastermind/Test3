@@ -18,5 +18,6 @@ public class DesktopLauncher {
 		// System.out.println(System.getProperty("user.dir"));
 
 		new LwjglApplication(new MyGdxGame(), config);
+		// Gitara Siema ;-D
 	}
 }
